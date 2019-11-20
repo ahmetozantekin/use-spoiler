@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/use-spoiler/static/css/main.de555337.chunk.css",
+    "main.js": "/use-spoiler/static/js/main.058c5dac.chunk.js",
+    "main.js.map": "/use-spoiler/static/js/main.058c5dac.chunk.js.map",
+    "runtime-main.js": "/use-spoiler/static/js/runtime-main.074be1ae.js",
+    "runtime-main.js.map": "/use-spoiler/static/js/runtime-main.074be1ae.js.map",
+    "static/js/2.bf5be3e4.chunk.js": "/use-spoiler/static/js/2.bf5be3e4.chunk.js",
+    "static/js/2.bf5be3e4.chunk.js.map": "/use-spoiler/static/js/2.bf5be3e4.chunk.js.map",
+    "index.html": "/use-spoiler/index.html",
+    "precache-manifest.00c07104f373282fc362151f64f84d42.js": "/use-spoiler/precache-manifest.00c07104f373282fc362151f64f84d42.js",
+    "service-worker.js": "/use-spoiler/service-worker.js",
+    "static/css/main.de555337.chunk.css.map": "/use-spoiler/static/css/main.de555337.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.074be1ae.js",
+    "static/js/2.bf5be3e4.chunk.js",
+    "static/css/main.de555337.chunk.css",
+    "static/js/main.058c5dac.chunk.js"
+  ]
+}
