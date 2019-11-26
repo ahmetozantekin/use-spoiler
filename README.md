@@ -14,14 +14,14 @@ npm install --save use-spoiler
 
 ```jsx
 import React, { Component } from 'react'
-import { useMyHook } from 'use-spoiler'
+import { useSpoiler } from 'use-spoiler'
 
 const App = () => {
   return (
-    <div id='example'>
-      <p>Suspect Verbal Kint was {useSpoiler('Keyser Söze')}      since in the beginning.</p>
-      <p>Suspect Verbal Kint was {useSpoiler('Keyser Söze', 5)}   since in the beginning.</p>
-      <p>Suspect Verbal Kint was {useSpoiler('Keyser Söze', 10)}  since in the beginning.</p>
+    <div>
+      <p>Suspect Verbal Kint was {useSpoiler('Keyser Söze')} since in the beginning.</p>
+      <h2> {useSpoiler('Narrator and Tyler Durden are actually playing two sides of the same character', 5)}</h2>
+      <p>{useSpoiler('Bruce Willis'),10} was a ghost that only one kid could see.</p>
     </div>
   )
 }
@@ -33,4 +33,4 @@ MIT © [ahmetozantekin](https://github.com/ahmetozantekin)
 
 ---
 
-This hook is created using [create-react-hook](https://github.com/hermanya/create-react-hook).
+❤️ [create-react-hook](https://github.com/hermanya/create-react-hook).
